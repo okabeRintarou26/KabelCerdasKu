@@ -91,3 +91,9 @@ body {
 .chat-input button:hover {
     background-color: #45a049;
 }
+.chat-body .chat-message.bot img.chat-image {
+    max-width: 100%;
+    border-radius: 8px;
+    margin-top: 10px;
+    max-height: 200px;
+}
